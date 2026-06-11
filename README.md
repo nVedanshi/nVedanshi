@@ -8,11 +8,6 @@ More formally, I'm a Computer Science student passionate about backend engineeri
 
 Currently learning and building with Node.js, Express, React, databases, Docker, and cloud technologies while working toward software engineering internships.
 
-## 🌐 Connect 
-
-- [LinkedIn](https://linkedin.com/in/vedanshi-neema)
-- [Leetcode](https://leetcode.com/u/vedanshi_n)
-
 ## 🛠️ Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic\&logo=javascript\&logoColor=%23F7DF1E)
